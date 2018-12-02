@@ -1,0 +1,13 @@
+{
+    "name": "sylvain/rpg",
+    "authors": [
+        {
+            "name": "sylvainSUPINTERNET",
+            "email": "sylvain.joly@supinternet.fr"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^4.2",
+        "twig/twig": "^2.5"
+    }
+}
